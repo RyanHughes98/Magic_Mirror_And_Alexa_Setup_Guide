@@ -20,7 +20,7 @@ In order to install NOOBS, you must have a micro SD card, micro SD to SD card ad
 
 <h2>Step 2: Setup the Hardware</h2>
 
-Alexa is very specific in the way its audio has to be setup, therefore, we recommend you should follow the setup closely, unless you are an advanced user.
+Alexa is very specific in the way its audio has to be setup, therefore, I recommend you should follow the setup closely, unless you are an advanced user.
 
 1. Attach the Pi to a display using a HDMI cable, should the display not have a HDMI input you can use an adapter.
 2. Attach a speaker via the 3.5 mm jack.
@@ -83,15 +83,28 @@ Note: Every module is different and therefore they are likely to have different 
 
 <h4>Currently Installed:</h4>
 
--MMM-Wallpaper -MMM-DublinRTPI -MMM-Remote-Control -MMM-SoccerLiveScore -MMM-Wallpaper
+-MMM-Wallpaper 
 
-<h4>Currently Uninistalled:</h4>	
+-MMM-DublinRTPI 
 
--MMM-AlexaPi -phone-notification-mirror
+-MMM-Remote-Control 
+
+-MMM-SoccerLiveScore 
+
+-MMM-Wallpaper
+
+
+<h4>Currently Not Inistalled:</h4>	
+
+-MMM-AlexaPi 
+
+-phone-notification-mirror
 
 <h4>3rd Party Modules that were hard to install or didn’t install</h4>
 
--MMM-awesome-alexa -MMM-MirrorMirrorOnTheWall
+-MMM-awesome-alexa 
+
+-MMM-MirrorMirrorOnTheWall
 
 
 <h2>Step 5. Installing Alexa</h2>
@@ -110,7 +123,7 @@ Before you can register the device, you must first create an Amazon Developer ac
 
 1. Log into your Amazon Developer Account and click on the Alexa Tab.
 2. Register a new device.
-3. Name the device type and display name. We used “Pi” for both, take note of the ID.
+3. Name the device type and display name. I used “Pi” for both, take note of the ID.
 4. Click “Next”.
 5. On the Security Profile screen, click “Create a new profile”.
 6. Under the general tab, give the profile a name and a description, then click “Next”.
