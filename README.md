@@ -1,4 +1,3 @@
-# MySmartMirror
 <h1>Raspberry Pi Magic Mirror and Alexa App Setup Guide</h1>
 
 This guide can be used to setup and configure the Magic Mirror and Alexa applications.
