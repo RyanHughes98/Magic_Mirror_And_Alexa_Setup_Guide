@@ -4,7 +4,7 @@ This guide can be used to setup and configure the Magic Mirror and Alexa applica
 
 While many similar guides exist already the Auto Starting of the new Alexa Standalone App isn't well doccumented so I made that part of the guide is particularally detailed as it is likly going to be more helpful than the other parts of the guide.
 
-<em><strong>This guide has been modified and not tested prior to the modification, should you have any issues feel free to contact me but I can't guarentee a response or help as this guide was originally only written to be part of a College Project and I no longer have the required hardware to test the guide.<strong></em>
+<em><strong>This guide has been modified and not tested prior to the modification, should you have any issues feel free to contact me but I can't guarentee a response or help as this guide was originally only written to be part of a College Project and I no longer have the required hardware to test the guide.</strong></em>
 
 <h2>Step 1: Install NOOBS (Operating System)</h2>
 
